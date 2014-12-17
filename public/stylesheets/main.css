@@ -50,3 +50,7 @@
 .navbar-form {
 	margin-right: 0px !important;
 }
+
+#frame iframe{
+	width:100%;
+}
